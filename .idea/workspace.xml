@@ -54,12 +54,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobiles.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mobiles.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobiles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="15159">
               <caret line="2027" column="74" lean-forward="false" selection-start-line="2027" selection-start-column="74" selection-end-line="2027" selection-end-column="74" />
-              <folding />
+              <folding>
+                <element signature="e#7209#7216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="furnitures.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/furnitures.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4129">
+              <caret line="737" column="36" lean-forward="true" selection-start-line="737" selection-start-column="36" selection-end-line="737" selection-end-column="36" />
+              <folding>
+                <element signature="e#7212#7219#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,13 +84,15 @@
     <findStrings>
       <find>Resale_v2</find>
       <find>Category Flat Bootstrap Responsive Website Template</find>
-      <find>&gt;Re</find>
       <find>&lt;span&gt;Re&lt;/span&gt;sale-v2&lt;/a&gt;</find>
+      <find>:: w3layouts</find>
+      <find>&gt;Re</find>
     </findStrings>
     <replaceStrings>
       <replace>SaveJo</replace>
       <replace />
       <replace>&lt;span&gt;Sa&lt;/span&gt;ve-Jo&lt;/a&gt;</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -87,6 +103,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/mobiles.html" />
+        <option value="$PROJECT_DIR$/furnitures.html" />
       </list>
     </option>
   </component>
@@ -273,12 +290,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527883409800</updated>
-      <workItem from="1527883412146" duration="676000" />
+      <workItem from="1527883412146" duration="1008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="676000" />
+    <option name="totallyTimeSpent" value="1008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -293,7 +310,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21322536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.085020244" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -351,9 +368,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobiles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="15159">
           <caret line="2027" column="74" lean-forward="false" selection-start-line="2027" selection-start-column="74" selection-end-line="2027" selection-end-column="74" />
-          <folding />
+          <folding>
+            <element signature="e#7209#7216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/furnitures.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4129">
+          <caret line="737" column="36" lean-forward="true" selection-start-line="737" selection-start-column="36" selection-end-line="737" selection-end-column="36" />
+          <folding>
+            <element signature="e#7212#7219#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
