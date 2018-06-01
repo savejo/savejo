@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b7d9ef8-cdfe-4ac9-a318-e05418a039b3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/all-classifieds.html" afterPath="$PROJECT_DIR$/all-classifieds.html" />
       <change beforePath="$PROJECT_DIR$/bikes.html" afterPath="$PROJECT_DIR$/bikes.html" />
       <change beforePath="$PROJECT_DIR$/books-sports-hobbies.html" afterPath="$PROJECT_DIR$/books-sports-hobbies.html" />
@@ -61,7 +60,7 @@
             <state relative-caret-position="15159">
               <caret line="2027" column="74" lean-forward="false" selection-start-line="2027" selection-start-column="74" selection-end-line="2027" selection-end-column="74" />
               <folding>
-                <element signature="e#7209#7216#0" expanded="true" />
+                <element signature="e#7208#7215#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,10 +69,10 @@
       <file leaf-file-name="furnitures.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/furnitures.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="1914" column="43" lean-forward="true" selection-start-line="1914" selection-start-column="43" selection-end-line="1914" selection-end-column="43" />
+            <state relative-caret-position="184">
+              <caret line="1905" column="18" lean-forward="true" selection-start-line="1905" selection-start-column="18" selection-end-line="1905" selection-end-column="18" />
               <folding>
-                <element signature="e#7212#7219#0" expanded="true" />
+                <element signature="e#7211#7218#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,13 +88,14 @@
       <find>:: w3layouts</find>
       <find>&gt;Re</find>
       <find>2016 Resale</find>
+      <find>Resale</find>
     </findStrings>
     <replaceStrings>
-      <replace>SaveJo</replace>
       <replace />
       <replace>&lt;span&gt;Sa&lt;/span&gt;ve-Jo&lt;/a&gt;</replace>
       <replace />
       <replace>2018 SaveJo</replace>
+      <replace>SaveJo</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -293,12 +293,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527883409800</updated>
-      <workItem from="1527883412146" duration="1195000" />
+      <workItem from="1527883412146" duration="1419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1195000" />
+    <option name="totallyTimeSpent" value="1419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -374,17 +374,17 @@
         <state relative-caret-position="15159">
           <caret line="2027" column="74" lean-forward="false" selection-start-line="2027" selection-start-column="74" selection-end-line="2027" selection-end-column="74" />
           <folding>
-            <element signature="e#7209#7216#0" expanded="true" />
+            <element signature="e#7208#7215#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/furnitures.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="1914" column="43" lean-forward="true" selection-start-line="1914" selection-start-column="43" selection-end-line="1914" selection-end-column="43" />
+        <state relative-caret-position="184">
+          <caret line="1905" column="18" lean-forward="true" selection-start-line="1905" selection-start-column="18" selection-end-line="1905" selection-end-column="18" />
           <folding>
-            <element signature="e#7212#7219#0" expanded="true" />
+            <element signature="e#7211#7218#0" expanded="true" />
           </folding>
         </state>
       </provider>
